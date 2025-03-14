@@ -1,6 +1,6 @@
-# AI Hedge Fund
+# financial-assets-optimization
 
-This is a proof of concept for an AI-powered hedge fund.  The goal of this project is to explore the use of AI to make trading decisions.  This project is for **educational** purposes only and is not intended for real trading or investment.
+This is a proof of concept for an financial-assets-optimization.  The goal of this project is to explore the use of AI to make trading decisions.  
 
 This system employs several agents working together:
 
@@ -17,11 +17,7 @@ This system employs several agents working together:
 11. Risk Manager - Calculates risk metrics and sets position limits
 12. Portfolio Manager - Makes final trading decisions and generates orders
 
-<img width="1020" alt="Screenshot 2025-03-08 at 4 45 22 PM" src="https://github.com/user-attachments/assets/d8ab891e-a083-4fed-b514-ccc9322a3e57" />
 
-**Note**: the system simulates trading decisions, it does not actually trade.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
 ## Disclaimer
 
